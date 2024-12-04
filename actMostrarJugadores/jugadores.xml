@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+    <jugador id="1">
+        <nombre>Lionel Messi</nombre>
+        <equipo>F.C. Barcelona</equipo>
+        <año>2024</año>
+        <posicion>Delantero</posicion>
+    </jugador>
+    <jugador id="2">
+        <nombre>Neymar</nombre>
+        <equipo>Al-Hilal</equipo>
+        <año>2024</año>
+        <posicion>Delantero</posicion>
+    </jugador>
+    <jugador id="3">
+        <nombre>Kylian Mbappé</nombre>
+        <equipo>Paris Saint-Germain</equipo>
+        <año>2024</año>
+        <posicion>Delantero</posicion>
+    </jugador>
+    <jugador id="4">
+        <nombre>Kevin De Bruyne</nombre>
+        <equipo>Manchester City</equipo>
+        <año>2024</año>
+        <posicion>Centrocampista</posicion>
+    </jugador>
+    <jugador id="5">
+        <nombre>Virgil van Dijk</nombre>
+        <equipo>Liverpool</equipo>
+        <año>2024</año>
+        <posicion>Defensa</posicion>
+    </jugador>
+</jugadores>
